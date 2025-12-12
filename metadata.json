@@ -1,6 +1,6 @@
 {
   "name": "Gemini Scribe",
-  "description": "A high-fidelity audio transcription app supporting English and French, powered by Gemini.",
+  "description": "A high-fidelity audio transcription app supporting English and French, powered by OpenAI Whisper and GPT-4.",
   "requestFramePermissions": [
     "microphone"
   ]
